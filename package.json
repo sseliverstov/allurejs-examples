@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "clean": "rimraf ./allure-results",
+    "test": "lerna run test --no-bail",
+    "allure": "allure serve allure-results"
+  },
+  "dependencies": {
+    "allure-commandline": "2.9.0",
+    "lerna": "^3.14.0",
+    "rimraf": "^2.6.3"
+  },
+  "name": "allurejs-examples"
+}

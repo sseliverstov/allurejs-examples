@@ -1,0 +1,17 @@
+{
+  "name": "cucumber-js1-sllure1",
+  "version": "0.0.1",
+  "license": "Apache-2",
+  "scripts": {
+    "test": "cucumber-js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sseliverstov/cucumber-js-example.git"
+  },
+  "dependencies": {
+    "cucumber": "1.3.3",
+    "cucumberjs-allure-reporter": "^1.0.3",
+    "cucumberjs-allure2-reporter": "^1.3.0"
+  }
+}
