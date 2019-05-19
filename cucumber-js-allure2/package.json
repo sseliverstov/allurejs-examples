@@ -13,7 +13,7 @@
     "@types/node": "^12.0.2",
     "allure-commandline": "2.9.0",
     "allure-cucumberjs": "^2.0.0-beta.2",
-    "cucumber": "^5.1.0",
+    "cucumber": "^4.2.1",
     "typescript": "^3.0.1"
   }
 }
