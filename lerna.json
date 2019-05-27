@@ -1,7 +1,8 @@
 {
   "packages": [
     "cucumber-js1-allure1",
-    "cucumber-js-allure2"
+    "cucumber-js-allure2",
+    "jest-allure2"
   ],
   "version": "0.0.0"
 }

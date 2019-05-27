@@ -1,5 +1,6 @@
 {
   "scripts": {
+    "install": "lerna exec npm install",
     "clean": "rimraf ./allure-results",
     "test": "lerna run test --no-bail",
     "allure": "allure serve allure-results"

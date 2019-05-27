@@ -1,6 +1,6 @@
-@cucumber4 @allure2
-Feature: Allure cucubmer
+@cucumber @allure2
+Feature: Allure v2 with cucubmer
 
-  Scenario: Run simple feature with cucumber1
+  Scenario: Run simple feature
     When run it
     Then it works
