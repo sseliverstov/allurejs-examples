@@ -12,11 +12,11 @@
     "url": "git+https://github.com/sseliverstov/allurejs-examples.git"
   },
   "dependencies": {
-    "@types/jest": "^24.0.13",
-    "allure-jasmine": "^2.0.0-beta.3",
-    "allure-js-commons": "^2.0.0-beta.3",
-    "jest": "^24.8.0",
-    "ts-jest": "^24.0.2",
-    "typescript": "^3.4.5"
+    "@types/jest": "^26.0.3",
+    "allure-jasmine": "^2.0.0-beta.7",
+    "allure-js-commons": "^2.0.0-beta.7",
+    "jest": "^26.1.0",
+    "ts-jest": "^26.1.1",
+    "typescript": "^3.9.5"
   }
 }
