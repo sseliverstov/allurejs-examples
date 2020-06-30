@@ -1,4 +1,4 @@
-describe("ts-jest", () => {
+describe("typescript jest", () => {
   describe("with allure v2", () => {
     it("simple", () => {});
   });
